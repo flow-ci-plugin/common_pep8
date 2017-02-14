@@ -14,8 +14,8 @@ public: true
 # clone_in_docker: false
 
 outputs:
-  - FLOW_PEP8_WARN_COUNT
-  - FLOW_PEP8_CHECKED_FILE_COUNT
-  - FLOW_PEP8_LOG_PATH
+  - name: FLOW_PEP8_WARN_COUNT
+  - name: FLOW_PEP8_CHECKED_FILE_COUNT
+  - name: FLOW_PEP8_LOG_PATH
 
 script_path: ./run.sh

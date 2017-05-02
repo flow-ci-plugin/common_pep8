@@ -1,7 +1,7 @@
 name: pep8_plugin
 version: 0.0.1
 language: python
-description: A python anlayzer for pep8 standard...
+description: "本插件是python编码规范 根据pep8"
 tags:
  - python
  - pep8

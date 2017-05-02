@@ -1,7 +1,7 @@
 name: pep8_plugin
 version: 0.0.1
 language: python
-description: "本插件是python编码规范 根据pep8"
+description: "Python 代码分析器，评估项目代码质量"
 tags:
  - python
  - pep8
